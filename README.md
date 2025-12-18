@@ -52,11 +52,9 @@ This portfolio is designed to:
 
 4. Run the scripts in order:
 
-1_database_setup.sql → creates tables
+database_setup.sql → creates tables and loads data
 
-2_data_insertion.sql → loads data
-
-3_analysis_queries.sql → runs business analysis
+analysis_queries.sql → runs analysis
 
 
 ## 🌟 Purpose
