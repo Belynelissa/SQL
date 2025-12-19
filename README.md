@@ -1,5 +1,6 @@
 # SQL
 A collection of real-world SQL projects showcasing my skills in database design, data analysis, and business insights. Built using MySQL and Visual Studio Code, this portfolio highlights expertise in writing optimized queries, managing data efficiently, and solving analytical problems across industries.
+<<<<<<< HEAD
 
 
 # 🗂️ SQL Portfolio Repository  
@@ -61,3 +62,5 @@ analysis_queries.sql → runs analysis
 
 This repository reflects my journey as a data analyst and SQL developer.
 Each project is a step toward mastering data storytelling through SQL — turning raw data into clear, actionable business insights.
+=======
+>>>>>>> 8f4c889689783bf1bfd418c87cdd0d76643e4c55
