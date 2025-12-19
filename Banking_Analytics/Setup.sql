@@ -53,3 +53,9 @@ ALTER TABLE customers
 ADD COLUMN annual_income DECIMAL(15,2) AFTER account_open_date;
 
 DESCRIBE customers;
+
+USE banking_analytics;
+ALTER TABLE transactions
+ADD COLUMN channel VARCHAR(30) AFTER transaction_date;
+
+DESCRIBE transactions;
